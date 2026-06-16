@@ -86,7 +86,7 @@ owly-books/
 ### Installazione
 
 ```bash
-git clone https://github.com/gmaffione/owly-books.git
+git clone https://github.com/GMaffione/Progetto-Javascript-Advanced.git
 cd owly-books
 npm install
 ```
