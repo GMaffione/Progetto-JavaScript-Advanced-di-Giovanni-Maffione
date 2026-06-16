@@ -142,4 +142,4 @@ L'applicazione è deployata su **Netlify**.
 ## 👤 Autore
 
 **Giovanni Maffione**
-Master Full Stack Development · 2026
+
