@@ -6,7 +6,7 @@
 
 ## 🔗 Demo online
 
-**[→ Prova l'applicazione](https://owly-books.netlify.app)**
+**[→ Prova l'applicazione](https://poetic-sprite-914f8e.netlify.app)**
 
 ---
 
