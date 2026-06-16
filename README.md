@@ -97,7 +97,7 @@ npm install
 npm run dev
 ```
 
-Apri [http://localhost:5173](http://localhost:5173) nel browser.
+Apri (https://poetic-sprite-914f8e.netlify.app/) nel browser.
 
 ### Build di produzione
 
