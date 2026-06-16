@@ -135,7 +135,7 @@ npm test
 
 L'applicazione è deployata su **Netlify**.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://owly-books.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/placeholder/deploy-status)](https://poetic-sprite-914f8e.netlify.app)
 
 ---
 
